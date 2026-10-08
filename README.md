@@ -38,3 +38,16 @@ The `data/customer_records.csv` file contains 5 fictional customer records with 
 
 This project forms part of my professional portfolio and demonstrates my ability to work with administrative data accurately and systematically.
 
+## Excel Dashboard Preview
+
+The dashboard summarises customer records by status and priority using Excel charts. It also demonstrates structured data entry and drop-down lists for consistent record keeping.
+
+[Customer Data Management Dashboard](customer-dashboard.png)
+
+## Project Files
+
+* `Customer_Data_Management_Dashboard.xlsx` — Excel dashboard with charts and data validation.
+* `data/customer_records.csv` — Original customer dataset.
+* `data/customer_records_cleaned.csv` — Cleaned customer dataset.
+* `reports/customer_summary.md` — Customer summary report.
+* `documentation/project_notes.md` — Project process and documentation.
