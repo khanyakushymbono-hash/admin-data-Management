@@ -42,7 +42,7 @@ This project forms part of my professional portfolio and demonstrates my ability
 
 The dashboard summarises customer records by status and priority using Excel charts. It also demonstrates structured data entry and drop-down lists for consistent record keeping.
 
-[Customer Data Management Dashboard](customer-dashboard.png)
+[Customer Data Management Dashboard](Exc.png)
 
 ## Project Files
 
