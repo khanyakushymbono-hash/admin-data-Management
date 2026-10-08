@@ -1,0 +1,6 @@
+Customer ID,Customer Name,Email,Department,Status,Priority
+C001,Sarah Adams,sarah.adams@admin.com,Sales,Open,High
+C002,John Williams,john.williams@admin.com,Support,Resolved,Medium
+C003,Lisa Brown,lisa.brown@admin.com,Accounts,Pending,Low
+C004,Michael Jones,michael.jones@admin.com,Support,Open,High
+C005,Anna Smith,anna.smith@admin.com,Sales,Resolved,Medium
